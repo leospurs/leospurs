@@ -5,6 +5,9 @@
 
 ![Hojae's GitHub stats](https://github-readme-stats.vercel.app/api?username=leospurs&show_icons=true&theme=radical)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hojaea92)](https://solved.ac/hojaea92)
+
   <h3>⚡Skills⚡</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
